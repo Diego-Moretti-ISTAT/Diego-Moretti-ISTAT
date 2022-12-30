@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Diego-Moretti-ISTAT
-- 👀 I’m interested in ChatGPT, Automatic System of Linguistic Learning, Theory of Measure, Ancient Mathematical Logic of Babylonia, Eculid, and Lost Civilizations, Modern Astrophysics.
+- 👀 I’m interested in ChatGPT, Automatic System of Linguistic Learning, Theory of Measure, Ancient Mathematical Logic of Babylonia, Euclid, and Lost Civilizations, Modern Astrophysics.
 - 🌱 I’m currently learning Visual Basic 2022
 - 💞️ I’m looking to collaborate on Web Scraping, Record Linkage, Big Data, Code Generators based on RDBMS, Quite Quitting, The Mission, Hyperspace Investigation, Point World derived from Flat World, 
 - 💞️ I’m looking to collaborate on New Simple Formulas combining different Disciplines, Artificial Intelligence ( a good book is AvantSpecie )
